@@ -5,7 +5,7 @@ import { Providers } from "./providers";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Remix My Face | powered by Leap",
+  title: "Remix My Face | powered by Rajesh",
   description: "Take a selfie, get a custom avatar.",
 };
 
